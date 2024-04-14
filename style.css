@@ -293,7 +293,7 @@ box-shadow: 1px 10px 10px aqua;
 
 .card-title{
 	color: blueviolet;
-	text-align: center;
+	margin-left: 100px;
 	font-family: 'Times New Roman', Times, serif;
 	font-size: 25px;
 	font-weight: bolder;
@@ -302,6 +302,8 @@ box-shadow: 1px 10px 10px aqua;
 	text-decoration: underline 2px solid blueviolet;
 	text-underline-offset: 5px;
 	cursor: pointer;
+	color: blueviolet;
+
 }
 
 .card-text{
@@ -309,6 +311,7 @@ box-shadow: 1px 10px 10px aqua;
 	font-family: sans-serif;
 	/* font-weight: bolder; */
 	color: white;
+
 	
 }
 
